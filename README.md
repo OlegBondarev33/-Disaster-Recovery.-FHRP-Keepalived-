@@ -16,6 +16,7 @@
 ![image](https://github.com/user-attachments/assets/5d99425d-31b1-478e-ad61-ac71d451e6d2)
 ![image](https://github.com/user-attachments/assets/5e262545-5c78-456f-ada5-1882c479d090)
 
+https://github.com/OlegBondarev33/-Disaster-Recovery.-FHRP-Keepalived-/blob/main/Bondarev.on.pkt
 
 ### Задание 2
 
